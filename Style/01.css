@@ -1,0 +1,47 @@
+h1{color: #89200e;
+    text-align: center;
+    background-color: #66666624;
+padding: 50px;
+font-family: "Zalando Sans", sans-serif;
+letter-spacing: 5px;
+text-transform: uppercase;border: 2px solid #89200e ;}
+body{margin: 0;}
+
+.Coord{border-color:#89200e ;margin-left: 50%;transform:translateX(-50%) ;
+margin-top: 30px;}
+a{
+    color: #89200e;
+    text-decoration: none;
+    margin: 10px;
+
+}
+nav{
+    text-align: center;
+}
+.pdp{
+    margin-left: 50%;
+    transform: translateX(-50%);
+    border: 2px solid #89200e;
+    border-radius: 20%;
+    box-shadow: 4px 8px 10px rgba(0, 0, 0, 0.233);
+}
+nav{color: #89200e;
+    text-align: center;
+    background-color: #66666624;
+padding: 50px;
+font-family: "Zalando Sans", sans-serif;
+letter-spacing: 5px;
+text-transform: uppercase;border: 2px solid #89200e ;
+
+}
+.Title1{color: blue;
+letter-spacing: 5px;
+text-align: center;
+text-transform: uppercase;border: 2px solid violet;
+background-color: antiquewhite;
+box-shadow: 4px 6px 8px blueviolet;
+
+}
+
+
+
