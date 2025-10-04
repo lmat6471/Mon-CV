@@ -1,10 +1,6 @@
-h1{color: #89200e;
-    text-align: center;
-    background-color: #66666624;
-padding: 50px;
-font-family: "Zalando Sans", sans-serif;
+h1{
 letter-spacing: 5px;
-text-transform: uppercase;border: 2px solid #89200e ;}
+text-transform: uppercase;}
 body{margin: 0;}
 
 .Coord{border-color:#89200e ;margin-left: 50%;transform:translateX(-50%) ;
@@ -42,6 +38,25 @@ background-color: antiquewhite;
 box-shadow: 4px 6px 8px blueviolet;
 
 }
+.First_lign{text-align: center;
+    background-color: #66666624;
+padding: 50px;
+font-family: "Zalando Sans", sans-serif;
+border: 2px solid #89200e ;
+color: #89200e;
 
+}
+.Animation{animation: F1 1s; 
+
+}
+@keyframes F1 {
+    0%{opacity: 0.8;transform: translateX(-40px);
+    }
+    20%{opacity: 0.6;transform: translateX(-80px);color: blue;}
+    40%{opacity: 0.4;transform: translateX(-120px)}
+    60%{opacity: 0.2;transform: translateX(-160px);color: aqua;}
+    100%{opacity: 0.2;transform: translateX(-200px)}
+    
+}
 
 
